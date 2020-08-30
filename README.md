@@ -7,7 +7,11 @@ Once deployment of this ARM template is complete please go to all the Suscriptio
 Make sure all selected subscriptions registered to Azure Security Center.
 
 
-https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/c03vikas/SecureScore/blob/master/SecureScoreARM.json
+<a href="https://azuredeploy.net/
+   repository=https://github.com/c03vikas/SecureScore/blob/master/SecureScoreARM.json"
+   target="_blank">
+   <img src="https://aka.ms/deploytoazurebutton"/>
+</a>
 
 
 Please note that First time you'll need to manually trigger the Logic App.

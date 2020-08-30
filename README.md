@@ -10,8 +10,9 @@ Azure Security Score ARM
 4. Make sure all selected subscriptions registered to Azure Security Center.
 
 
+
 <a href="https://azuredeploy.net/
-   repository=https://github.com/c03vikas/SecureScore/blob/master/SecureScoreARM.json"
+   repository=https://github.com/c03vikas/SecureScore/master/SecureScoreARM.json"
    target="_blank">
    <img src="https://aka.ms/deploytoazurebutton"/>
 </a>

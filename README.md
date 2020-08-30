@@ -12,7 +12,7 @@ Azure Security Score ARM
 
 
 <a href="https://azuredeploy.net/
-   repository=https://github.com/c03vikas/SecureScore/master/SecureScoreARM.json"
+   repository=https://raw.githubusercontent.com/c03vikas/SecureScore/master/SecureScoreARM.json"
    target="_blank">
    <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
